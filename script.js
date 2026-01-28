@@ -1,3 +1,4 @@
+function toggleDropdown() {
+  document.getElementById("dropdownMenu").classList.toggle("show");
+}
 
-// Navigation menu task
-// Dropdown handled using CSS
